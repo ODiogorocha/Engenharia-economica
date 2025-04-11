@@ -1,8 +1,4 @@
-Claro! Aqui está um exemplo de um `README.md` para um repositório da disciplina de **Engenharia Econômica**. Sinta-se à vontade para editar conforme os tópicos e organização do seu projeto:
 
----
-
-```markdown
 # 📘 Engenharia Econômica
 
 Este repositório contém anotações, exercícios resolvidos e materiais de apoio da disciplina **Engenharia Econômica**, com foco nos principais conceitos utilizados na tomada de decisões financeiras aplicadas à engenharia.
